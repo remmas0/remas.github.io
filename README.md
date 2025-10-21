@@ -8,7 +8,7 @@ This project uses a **Keras model** trained with Teachable Machine to classify i
 
 ![Output Screenshot](PIC1.png)
 
-![Output Screenshot](لقطة شاشة 2025-10-18 211744.png)
+![Output Screenshot]((PIC2.png)
 
 
 ## Download
