@@ -11,3 +11,9 @@ This project uses a **Keras model** trained with Teachable Machine to classify i
 ![Output Screenshot](PIC2.png)
 
 
+## Download
+
+You can download the full project as a ZIP file here:  
+
+[project_files.zip](project_files.zip)
+
