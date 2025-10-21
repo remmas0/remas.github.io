@@ -5,4 +5,4 @@ The code loads the model, processes the image, predicts the class, and shows the
 
 ---
 
-## 📂 Project Structure
+
